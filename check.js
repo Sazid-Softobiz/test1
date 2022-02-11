@@ -27,6 +27,9 @@ var emily = new Person("Emily", "Jones", 12);
 console.table([john, jane, emily]);
 
 
+
+
+
 const date =new Date()
 console.log(date)
 
